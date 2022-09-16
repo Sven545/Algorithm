@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\bin\Debug\net6.0\189. Rotate Array.exe
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\bin\Debug\net6.0\189. Rotate Array.deps.json
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\bin\Debug\net6.0\189. Rotate Array.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\bin\Debug\net6.0\189. Rotate Array.dll
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\bin\Debug\net6.0\189. Rotate Array.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\189. Rotate Array.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\189. Rotate Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\189. Rotate Array.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\189. Rotate Array.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\189. Rotate Array.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\189. Rotate Array.dll
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\refint\189. Rotate Array.dll
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\189. Rotate Array.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\189. Rotate Array.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\Algoritms\189. Rotate Array\obj\Debug\net6.0\ref\189. Rotate Array.dll

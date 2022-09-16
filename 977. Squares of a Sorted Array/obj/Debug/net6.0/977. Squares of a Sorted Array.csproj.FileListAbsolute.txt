@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\bin\Debug\net6.0\977. Squares of a Sorted Array.exe
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\bin\Debug\net6.0\977. Squares of a Sorted Array.deps.json
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\bin\Debug\net6.0\977. Squares of a Sorted Array.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\bin\Debug\net6.0\977. Squares of a Sorted Array.dll
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\bin\Debug\net6.0\977. Squares of a Sorted Array.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\977. Squares of a Sorted Array.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\977. Squares of a Sorted Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\977. Squares of a Sorted Array.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\977. Squares of a Sorted Array.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\977. Squares of a Sorted Array.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\977. Squares of a Sorted Array.dll
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\refint\977. Squares of a Sorted Array.dll
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\977. Squares of a Sorted Array.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\977. Squares of a Sorted Array.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\Algoritms\977. Squares of a Sorted Array\obj\Debug\net6.0\ref\977. Squares of a Sorted Array.dll

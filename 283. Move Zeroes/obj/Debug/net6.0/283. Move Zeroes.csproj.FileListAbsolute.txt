@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.exe
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.deps.json
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.dll
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\bin\Debug\net6.0\283. Move Zeroes.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.dll
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\refint\283. Move Zeroes.dll
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\283. Move Zeroes.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\Algoritms\283. Move Zeroes\obj\Debug\net6.0\ref\283. Move Zeroes.dll

@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\bin\Debug\net6.0\344. Reverse String.exe
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\bin\Debug\net6.0\344. Reverse String.deps.json
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\bin\Debug\net6.0\344. Reverse String.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\bin\Debug\net6.0\344. Reverse String.dll
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\bin\Debug\net6.0\344. Reverse String.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\344. Reverse String.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\344. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\344. Reverse String.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\344. Reverse String.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\344. Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\344. Reverse String.dll
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\refint\344. Reverse String.dll
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\344. Reverse String.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\344. Reverse String.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\Algoritms\344. Reverse String\obj\Debug\net6.0\ref\344. Reverse String.dll

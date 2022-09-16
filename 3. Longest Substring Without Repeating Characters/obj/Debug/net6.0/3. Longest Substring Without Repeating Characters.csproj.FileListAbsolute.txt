@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\bin\Debug\net6.0\3. Longest Substring Without Repeating Characters.exe
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\bin\Debug\net6.0\3. Longest Substring Without Repeating Characters.deps.json
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\bin\Debug\net6.0\3. Longest Substring Without Repeating Characters.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\bin\Debug\net6.0\3. Longest Substring Without Repeating Characters.dll
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\bin\Debug\net6.0\3. Longest Substring Without Repeating Characters.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\3. Longest Substring Without Repeating Characters.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\3. Longest Substring Without Repeating Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\3. Longest Substring Without Repeating Characters.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\3. Longest Substring Without Repeating Characters.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\3. Longest Substring Without Repeating Characters.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\3. Longest Substring Without Repeating Characters.dll
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\refint\3. Longest Substring Without Repeating Characters.dll
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\3. Longest Substring Without Repeating Characters.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\3. Longest Substring Without Repeating Characters.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\Algoritms\3. Longest Substring Without Repeating Characters\obj\Debug\net6.0\ref\3. Longest Substring Without Repeating Characters.dll

@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\bin\Debug\net6.0\876. Middle of the Linked List.exe
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\bin\Debug\net6.0\876. Middle of the Linked List.deps.json
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\bin\Debug\net6.0\876. Middle of the Linked List.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\bin\Debug\net6.0\876. Middle of the Linked List.dll
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\bin\Debug\net6.0\876. Middle of the Linked List.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\876. Middle of the Linked List.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\876. Middle of the Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\876. Middle of the Linked List.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\876. Middle of the Linked List.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\876. Middle of the Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\876. Middle of the Linked List.dll
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\refint\876. Middle of the Linked List.dll
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\876. Middle of the Linked List.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\876. Middle of the Linked List.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\Algoritms\876. Middle of the Linked List\obj\Debug\net6.0\ref\876. Middle of the Linked List.dll
