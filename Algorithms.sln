@@ -21,9 +21,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "876. Middle of the Linked L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19. Remove Nth Node From End of List", "19. Remove Nth Node From End of List\19. Remove Nth Node From End of List.csproj", "{D37B901E-14C8-41D6-9A19-51F4BFE25F7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{FF6FBBE0-BE67-4429-847F-991F51FEFE0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Longest Substring Without Repeating Characters", "3. Longest Substring Without Repeating Characters\3. Longest Substring Without Repeating Characters.csproj", "{FF6FBBE0-BE67-4429-847F-991F51FEFE0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "567. Permutation in String", "567. Permutation in String\567. Permutation in String.csproj", "{E7A67725-D86F-4D5E-8A50-3CB2FF377AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "567. Permutation in String", "567. Permutation in String\567. Permutation in String.csproj", "{E7A67725-D86F-4D5E-8A50-3CB2FF377AC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "733. Flood Fill", "733. Flood Fill\733. Flood Fill.csproj", "{95821475-84C8-4DF0-9647-8CF5A3DDA41F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "695. Max Area of Island", "695. Max Area of Island\695. Max Area of Island.csproj", "{0ABD428B-742A-4BCE-B801-D79C2575C751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "617. Merge Two Binary Trees", "617. Merge Two Binary Trees\617. Merge Two Binary Trees.csproj", "{97A4101E-CE92-4259-BDA7-CCB1B6E4B7D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{E7A67725-D86F-4D5E-8A50-3CB2FF377AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7A67725-D86F-4D5E-8A50-3CB2FF377AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7A67725-D86F-4D5E-8A50-3CB2FF377AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95821475-84C8-4DF0-9647-8CF5A3DDA41F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95821475-84C8-4DF0-9647-8CF5A3DDA41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95821475-84C8-4DF0-9647-8CF5A3DDA41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95821475-84C8-4DF0-9647-8CF5A3DDA41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ABD428B-742A-4BCE-B801-D79C2575C751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABD428B-742A-4BCE-B801-D79C2575C751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABD428B-742A-4BCE-B801-D79C2575C751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABD428B-742A-4BCE-B801-D79C2575C751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A4101E-CE92-4259-BDA7-CCB1B6E4B7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A4101E-CE92-4259-BDA7-CCB1B6E4B7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A4101E-CE92-4259-BDA7-CCB1B6E4B7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A4101E-CE92-4259-BDA7-CCB1B6E4B7D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

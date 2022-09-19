@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\bin\Debug\net6.0\733. Flood Fill.exe
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\bin\Debug\net6.0\733. Flood Fill.deps.json
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\bin\Debug\net6.0\733. Flood Fill.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\bin\Debug\net6.0\733. Flood Fill.dll
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\bin\Debug\net6.0\733. Flood Fill.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\733. Flood Fill.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\733. Flood Fill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\733. Flood Fill.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\733. Flood Fill.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\733. Flood Fill.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\733. Flood Fill.dll
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\refint\733. Flood Fill.dll
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\733. Flood Fill.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\733. Flood Fill.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\Algoritms\733. Flood Fill\obj\Debug\net6.0\ref\733. Flood Fill.dll

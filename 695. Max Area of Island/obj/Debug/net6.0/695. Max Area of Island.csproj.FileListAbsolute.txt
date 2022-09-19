@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\bin\Debug\net6.0\695. Max Area of Island.exe
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\bin\Debug\net6.0\695. Max Area of Island.deps.json
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\bin\Debug\net6.0\695. Max Area of Island.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\bin\Debug\net6.0\695. Max Area of Island.dll
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\bin\Debug\net6.0\695. Max Area of Island.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\695. Max Area of Island.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\695. Max Area of Island.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\695. Max Area of Island.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\695. Max Area of Island.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\695. Max Area of Island.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\695. Max Area of Island.dll
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\refint\695. Max Area of Island.dll
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\695. Max Area of Island.pdb
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\695. Max Area of Island.genruntimeconfig.cache
+C:\Users\Aleksandr\source\repos\Algoritms\695. Max Area of Island\obj\Debug\net6.0\ref\695. Max Area of Island.dll
